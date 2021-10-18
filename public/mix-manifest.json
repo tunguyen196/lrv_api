@@ -1,0 +1,14 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/library/bootstrap/README.md": "/library/bootstrap/README.md",
+    "/library/bootstrap/package.json": "/library/bootstrap/package.json",
+    "/library/font-awesome/HELP-US-OUT.txt": "/library/font-awesome/HELP-US-OUT.txt",
+    "/library/font-awesome/README.md": "/library/font-awesome/README.md",
+    "/library/font-awesome/package.json": "/library/font-awesome/package.json",
+    "/library/jquery/AUTHORS.txt": "/library/jquery/AUTHORS.txt",
+    "/library/jquery/LICENSE.txt": "/library/jquery/LICENSE.txt",
+    "/library/jquery/README.md": "/library/jquery/README.md",
+    "/library/jquery/bower.json": "/library/jquery/bower.json",
+    "/library/jquery/package.json": "/library/jquery/package.json"
+}
